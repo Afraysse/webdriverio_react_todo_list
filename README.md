@@ -149,4 +149,5 @@ In the `package.json`, create the following scripts to handle all e2e testing ne
 Once you've updated your `package.json`, setup and start the selenium server:
 
 `npm run selenium-setup`
+
 `npm run selenium-start`
