@@ -10,7 +10,7 @@ exports.config = {
     // according to your user and key information. However if you are using a private Selenium
     // backend you should define the host address, port, and path here.
     //
-    host: '172.16.9.59',
+    host: '0.0.0.0',
     port: 3000,
     //
     // ==================
