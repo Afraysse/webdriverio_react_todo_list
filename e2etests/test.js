@@ -1,5 +1,3 @@
-/* global describe, it, browser, beforeEach */
-
 const expect = require('chai').expect;
 
 describe('TodoList App', () => {
