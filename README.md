@@ -155,4 +155,4 @@ Once you've updated your `package.json`, setup and start the selenium server:
 ### The wdio.conf.js WebdriverIO config file
 The wdio.conf.js file serves as the configuration file that contains all necessary information to run your test suite.
 
-**Word of Caution:** If this file is set up incorrectly, your **test suite** will fail. You will get frustrated. You will be angry.
+**Caution:** If this file is set up incorrectly, your **test suite** will fail. You will get **frustrated**. You will be **angry**. Your test suite will be **angry**.
